@@ -1,6 +1,6 @@
 swagger: "2.0"
 info:
-  title: "Sample 1"
+  title: "Sample 2"
   version: "1.0.0"
 paths:
   /todos:
