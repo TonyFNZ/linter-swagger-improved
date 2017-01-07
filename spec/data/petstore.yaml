@@ -37,7 +37,7 @@ definitions:
       - "name"
     properties:
       id:
-        type: "intege"
+        type: "integer"
         format: "int64"
       name:
         type: "string"
