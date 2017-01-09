@@ -92,14 +92,14 @@ describe( 'The Swagger provider for Linter', () => {
               type: 'Error',
               text: 'Additional properties not allowed: anyOf',
               filePath: SAMPLE3,
-              range: [ [ 13, 14 ], [ 26, 0 ] ]
+              range: [ [ 13, 14 ], [ 24, 0 ] ]
             } );
 
             expect( messages[ 1 ] ).toEqual( {
               type: 'Error',
               text: 'Missing required property: type',
               filePath: SAMPLE3,
-              range: [ [ 13, 14 ], [ 26, 0 ] ]
+              range: [ [ 13, 14 ], [ 24, 0 ] ]
             } );
           } );
         } );
