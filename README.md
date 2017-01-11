@@ -1,4 +1,5 @@
 # linter-swagger-improved
+[![apm](https://img.shields.io/apm/v/linter-swagger-improved.svg)](https://atom.io/packages/linter-swagger-improved) [![apm](https://img.shields.io/apm/dm/linter-swagger-improved.svg)](https://atom.io/packages/linter-swagger-improved)
 
 An improved version of the [linter-swagger][linter-swagger] plugin with better identification of errors within your swagger files.
 
