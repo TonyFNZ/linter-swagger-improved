@@ -1,3 +1,6 @@
+> **Update: March 20th 2017** <br/>
+> The improved error handler from within this project has now been merged into the main [linter-swagger][linter-swagger] project.  This project will be kept here for reference, but I recommend everyone switch to using the [linter-swagger][linter-swagger] project where this functionality will be maintained from now on.
+
 # linter-swagger-improved
 [![apm](https://img.shields.io/apm/v/linter-swagger-improved.svg)](https://atom.io/packages/linter-swagger-improved) [![apm](https://img.shields.io/apm/dm/linter-swagger-improved.svg)](https://atom.io/packages/linter-swagger-improved)
 
